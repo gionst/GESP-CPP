@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>CCF GESP-CPP 教程</title>
+    <subtitle>第一本引导式学习GESP认证的电子书</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
